@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{4D23E8F2-C3DA-B654-869B-15BF18B9F2B6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CarEntity.cs">
+    <Files>
+      <File FileName="Assets/CarEntity.cs" Line="33" Column="45" />
+      <File FileName="Assets/TracingCameraEntity.cs" Line="34" Column="74" />
+      <File FileName="../course labs/Assets/EscapeGameScene.cs" />
+      <File FileName="Assets/ObstacleEntity.cs" Line="16" Column="34" />
+      <File FileName="Assets/CheckPoint.cs" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9e6e98d0-b984-41cf-ae61-3947b071a019" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
